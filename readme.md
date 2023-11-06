@@ -33,7 +33,7 @@ Learn360 is a comprehensive School and College Management System designed to str
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/learn360-school-management.git
+   git clone https://github.com/keerthe2001/Learn360-The-Student-Learning-and-Management-Platform.git
    ```
 
 2. Set up the necessary database schema by importing the provided SQL file into MySQL.
